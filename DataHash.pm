@@ -5,7 +5,7 @@ package Template::Plugin::DataHash;
 use strict;
 
 use vars qw($VERSION @ISA $EXTENSION $DEFAULT_INCLUDE_PATH);
-$VERSION = '0.02';
+$VERSION = '0.04';
 
 use Template::Plugin;
 @ISA = qw(Template::Plugin);
